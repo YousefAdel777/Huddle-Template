@@ -533,3 +533,9 @@ html {
         margin-bottom: 10px;
     }
 }
+
+@media (min-width:1400px) {
+    .footer {
+        height: 100vh;
+    }
+}
