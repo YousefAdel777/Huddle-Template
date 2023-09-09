@@ -50,6 +50,7 @@ html {
     background-color: #edfbfe;
     background-size: cover;
     min-height: 100vh;
+    padding-top: 50px;
 }
 
 .header .flex-center {
@@ -550,11 +551,5 @@ html {
         flex-flow: row wrap;
         justify-content: center;
         margin-bottom: 10px;
-    }
-}
-
-@media (min-width:1400px) {
-    .footer {
-        height: 160vh;
     }
 }
